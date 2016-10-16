@@ -1,6 +1,6 @@
 # Chess
 
-This repository contains all games I played on the [Free Internet Chess Server](http://freechess.org/) (FICS) starting 2007.
+This repository contains (not yet) all games I played on the [Free Internet Chess Server](http://freechess.org/) (FICS) starting 2007. There will be a collection of these gamesbe accessible in the future at [https://jukey.github.io/chess/](https://jukey.github.io/chess/) (currently there is shown an example game). 
 
 ## Format and Directories
 
@@ -20,9 +20,9 @@ The games are stored in [pgn files](https://en.wikipedia.org/wiki/Portable_Game_
 
 ```
 
-## How to get the game data
+## How to import the game data from the fics servers
 
-There is a wonderful webinterface, called [ficsgames.org](http://ficsgames.org/) available for all games ever played on the [Free Internet Chess Server](http://freechess.org/). In order to download game data do
+There is a wonderful website, called [ficsgames.org](http://ficsgames.org/) available for all games ever played on the [Free Internet Chess Server](http://freechess.org/). In order to download game data do
 
 - Go to the [download section of the page](http://ficsgames.org/download.html)
 - Enter `jukey` at the *Games of player:* input field
